@@ -44,30 +44,27 @@ table {
 }
 
 /* My CSS */
-
+ 
 header{
-    clear: both;
-    font-size: 15px;
-    color: white;
-    height: 50px;
+    background-color: #4aaaa5;
     width: 200px;
     text-align: center;
-    padding-top: 10px;
     font-size: 30px;
-    background-color: #4aaaa5;
-    margin-left: 84px;
     font-weight: bold;
+    padding: 10px;
+    color: white;
 }
 
 .container1{
-    padding-top: 23px;
     background-color: white;
-    height: 75px;
-    border-bottom: 2px solid grey;
 }
-
-.row{
-    width: 100%;
+.navbar {
+    padding-bottom: 0;
+    padding-left: 5.5%;
+    padding-right: 5.5%;
+}
+.row1{
+    border-bottom: 2px solid grey;
 }
 
 hr {
@@ -79,7 +76,7 @@ hr {
     padding: 5px; 
 }
 
-.aboutme{
+.aboutme{ 
     border: 1px solid #cccccc;
     background-color: white;
     padding-top: 20px;
@@ -146,5 +143,5 @@ p {
     height: 50px;
     width: 100%;
     bottom: 0;
-}
+} */
  
